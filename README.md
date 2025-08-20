@@ -1,34 +1,48 @@
-<!-- Modern Header -->
-<h1 align="center">Hey 👋, I'm Al Mamun Khan</h1>
-<h3 align="center">🚀 Frontend Developer | React & Next.js Enthusiast</h3>
+<h1 align="center">Hey there, I’m Al Mamun Khan</h1>
+<h3 align="center">Frontend Developer (he/him) | React • Next.js • Tailwind CSS</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/7k9G8wF/coding.gif" alt="Developer" width="400"/>
+  <img src="https://i.ibb.co/7k9G8wF/coding.gif" alt="Coding Illustration" width="300">
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-✨ Passionate **Frontend Developer** building responsive, accessible, and user-friendly web applications.  
-🎯 Focused on **modern UI frameworks** and best practices.  
-🌱 Currently learning backend basics to become a **Full Stack Developer**.  
-🤝 Open to collaboration on exciting frontend projects.  
+##  About Me
+Passionate about crafting modern, accessible, and responsive web applications.  
+Always learning—next up: backend fundamentals.  
+Open to collaboration and frontend-driven innovation.
 
 ---
 
-## 🛠️ Skills & Tools  
-- ⚛️ **React.js** | **Next.js**  
-- 🎨 **Tailwind CSS** | **Sass/SCSS** | **Bootstrap** | CSS3 | HTML5  
-- 💻 JavaScript (ES6+)  
-- 🛠️ Git | GitHub | VS Code | Figma  
+##  Skills
+| Frontend | Styles | Tools |
+|----------|--------|-------|
+| React.js | Tailwind CSS | Git |
+| Next.js  | Sass/SCSS     | VS Code |
+| JavaScript (ES6+) | Bootstrap | Figma/UI Design |
 
 ---
 
-## 📊 GitHub Stats  
+##  Featured Projects
+| Project | Description |
+|---------|-------------|
+| **Portfolio** | My personal site built with Next.js & Tailwind—live deployment linked. |
+| **Tailorghor** | A React + Vite boilerplate showcasing clean setup and ESLint integration. |
+| **Tic-Tac-Toe** | Vanilla JS interactive game demonstrating logic and UI fundamentals. |
+
+---
+
+##  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almamun0101&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almamun0101&layout=compact&theme=tokyonight" alt="langs" height="165"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=almamun0101&show_icons=true&theme=tokyonight)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almamun0101&layout=compact&theme=tokyonight)
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=almam
+---
+
+##  Connect with Me
+✉️ Email: almamunkhan0101@gmail.com  
+[GitHub](https://github.com/almamun0101)
+
+---
+
